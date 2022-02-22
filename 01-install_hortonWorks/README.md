@@ -14,8 +14,16 @@ After installation you can use [http://127.0.0.1:1080/](http://127.0.0.1:1080/)
 
 ### for ssh connect user name is root and password is hadoop web port is 4200 and ssh port is 2222
 
+test  this command to see all directories in our distributed file system
+```
+hdfs dfs -ls /
+```
+
+## For checking Namenode information you can use [http://127.0.0.1:50070](http://127.0.0.1:50070)
 
 
+
+## For checking YARN jobs manager you can use [http://127.0.0.1:8088](http://127.0.0.1:8088)
 
 
 
