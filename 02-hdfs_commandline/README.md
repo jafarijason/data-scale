@@ -12,3 +12,18 @@
 <p align="center">
     <img src="https://github.com/jafarijason/data-scale/raw/main/assets/images/hdfs001.png" alt="Hadoop Architecture"/>
 </p>
+
+# Commands
+
+
+## Base command
+```
+hdfs dfs
+```
+
+## List files and folder in HDFS
+```
+hdfs dfs -ls /
+hdfs dfs -ls
+```
+
