@@ -3,6 +3,7 @@
         "HDFS",
         "hdfsarchitecture",
         "Hortonworks",
+        "mkdir",
         "Namenode"
     ]
 }
