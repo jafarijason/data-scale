@@ -4,6 +4,8 @@
         "hdfsarchitecture",
         "Hortonworks",
         "mkdir",
-        "Namenode"
-    ]
+        "Namenode",
+        "quux"
+    ],
+    "python.formatting.provider": "yapf"
 }
