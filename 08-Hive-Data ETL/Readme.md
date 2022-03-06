@@ -54,5 +54,7 @@ Complete form as follows:
 
 Repeat the steps above with the trucks.csv file to create and load the trucks table.
 
+## [what is ORC and Behind the Scenes](https://www.cloudera.com/tutorials/getting-started-with-hdp-sandbox/3.html#behind-the-scenes)
+
 
 
