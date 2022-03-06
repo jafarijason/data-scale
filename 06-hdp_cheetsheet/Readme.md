@@ -45,3 +45,5 @@ The Sandbox Welcome Page is also known as the Splash Page. It runs on port numbe
 4. holger_gov - Primarily for the management of data elements, both the content and metadata. He has a specialist role that incorporates processes, policies, guidelines and responsibilities for administering organizations' entire data in compliance with policy and/or regulatory obligations.
 
 5. amy_ds - A data scientist who uses Hive, Spark and Zeppelin to do exploratory data analysis, data cleanup and transformation as preparation for analysis.
+
+# [Concept: Hadoop & HDP](https://www.cloudera.com/tutorials/getting-started-with-hdp-sandbox/1.html)
