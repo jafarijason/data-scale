@@ -47,3 +47,10 @@ The Sandbox Welcome Page is also known as the Splash Page. It runs on port numbe
 5. amy_ds - A data scientist who uses Hive, Spark and Zeppelin to do exploratory data analysis, data cleanup and transformation as preparation for analysis.
 
 # [Concept: Hadoop & HDP](https://www.cloudera.com/tutorials/getting-started-with-hdp-sandbox/1.html)
+
+
+
+```
+sudo -u hdfs hadoop fs -mkdir /user/new_user
+sudo -u hdfs hadoop fs -chown new_user /user/new_user
+```
